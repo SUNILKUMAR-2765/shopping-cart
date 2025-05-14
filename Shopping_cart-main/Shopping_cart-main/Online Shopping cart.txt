@@ -1,0 +1,7 @@
+Online Shopping cart:
+
+Write a program to implement a shopping cart System using oop principle.
+
+1. Create product class with attributes products, name, price and quality.
+2. implement methods to add a product, remove a product, and display the cart details.
+3. add the sum of total product in the cart.
